@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AR\\VuforiaSDK\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\AR\\VuforiaSDK\\samples\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\AR\\VuforiaSDK\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo.png",
+        "source": "C:\\AR\\VuforiaSDK\\samples\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    }
+]

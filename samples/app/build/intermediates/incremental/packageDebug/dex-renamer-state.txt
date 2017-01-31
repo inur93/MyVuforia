@@ -1,0 +1,7 @@
+#Mon Jan 30 17:38:48 CET 2017
+base.0=C\:\\AR\\VuforiaSDK\\samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_efd9b810a94e106c579b95c712dbeaf7379940bb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\AR\\VuforiaSDK\\samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5973027a8a8c7444ecf9db2e267441140f4e12bf\\classes.dex
+base.1=C\:\\AR\\VuforiaSDK\\samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5973027a8a8c7444ecf9db2e267441140f4e12bf
+file.0=C\:\\AR\\VuforiaSDK\\samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_efd9b810a94e106c579b95c712dbeaf7379940bb\\classes.dex

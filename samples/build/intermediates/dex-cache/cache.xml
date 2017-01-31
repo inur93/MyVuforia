@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\AR\VuforiaSDK\build\java\vuforia\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="15f0c848fc592fc94c41fff712b6079d754ecbe2">
+        <dex dex="C:\AR\VuforiaSDK\samples\app\build\intermediates\transforms\dex\debug\folders\1000\2\Vuforia_d13301bc7cebc060e0e1c86cf5d7535e994f8bda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AR\VuforiaSDK\samples\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba2bc5c18590d996663d2add6b009b22c18522b9">
+        <dex dex="C:\AR\VuforiaSDK\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5973027a8a8c7444ecf9db2e267441140f4e12bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AR\VuforiaSDK\samples\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba0dc1213aca4f9d168a1b3e127a9218c5957ecb">
+        <dex dex="C:\AR\VuforiaSDK\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_efd9b810a94e106c579b95c712dbeaf7379940bb\classes.dex" />
+    </item>
+
+</items>
